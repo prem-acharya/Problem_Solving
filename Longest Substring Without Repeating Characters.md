@@ -32,7 +32,8 @@ Constraints:
 - s consists of English letters, digits, symbols and spaces.
 
 C++ Code:
-```
+
+```C++
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {

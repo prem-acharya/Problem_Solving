@@ -1,6 +1,6 @@
 # 1) Character Patterns
 
-```Code C
+```c
 #include<stdio.h>
 #include<conio.h>
 int main()

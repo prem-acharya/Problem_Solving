@@ -1,5 +1,5 @@
 C Code:
-```
+```c
 #include<stdio.h>
 int main(){
     int a[50], i,j,n,t;
